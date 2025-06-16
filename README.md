@@ -3,7 +3,8 @@
 A modern and responsive online library system built with React, Redux, and Tailwind CSS. Users can browse, add, and view book details in an organized digital interface.
 
 ## Link URL:
-- [text](https://github.com/akbhati32/Online-Library-System.git)
+- https://github.com/akbhati32/Online-Library-System.git
+
 
 ![homepage](https://github.com/user-attachments/assets/b90b54b6-635a-4d20-ada1-bb71b8cf7f26)
 
