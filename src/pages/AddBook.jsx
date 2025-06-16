@@ -84,7 +84,7 @@ const AddBook = ()=>{
         <select onChange={handleChange} 
         className="w-xl py-2 px-6 rounded border text-gray-600 mt-4 " 
         name="category" value={book.category}>
-          <option>Choose Category</option>
+          {/* <option>Choose Category</option> */}
           <option>Fiction</option>
           <option>Non-Fiction</option>
           <option>Sci-Fi</option>
